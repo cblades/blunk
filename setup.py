@@ -9,7 +9,7 @@ install_requires = []
 
 setup(
     author='Chris Blades',
-    description='Simple signaling for python.  Like blink but stupider.',
+    description='Simple signaling for python.  Like blinker but stupider.',
     download_url='https://github.com/cblades/blunk/tarball/{}'.format(version),
     include_package_data=True,
     install_requires=install_requires,
